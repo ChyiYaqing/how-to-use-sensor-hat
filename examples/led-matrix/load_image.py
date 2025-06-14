@@ -16,3 +16,5 @@ pixels = list(img.getdata())
 # Display the image on the LED matrix
 sense.set_pixels(pixels)
 #sense.load_image("../images/apple.png")
+
+sense.clear()  # Clear the LED matrix after displaying the image
