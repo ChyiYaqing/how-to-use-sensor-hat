@@ -12,3 +12,4 @@ How to use SensorHat
 - Humidity : 湿度计
 - Barometric pressure : 气压计
 
+### LED Matrix 矩阵
